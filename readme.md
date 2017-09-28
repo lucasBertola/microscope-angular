@@ -21,13 +21,18 @@ Install node.js:
 
 [Download Node.js](http://nodejs.org/download/)
 
+
+Download Projet:
+`git clone https://github.com/microscope-frontend/microscope-angular.git`
+`cd microsoft-angular`
+
 Install project dependencies:
 
-	npm install
-	
+`npm install`
+
 Install gulp (task runner):
 
-	npm install gulp -g
+`npm install gulp -g`
 
 	
 Commands
@@ -35,11 +40,11 @@ Commands
 
 Run the web application in development mode (Opens the application in your browser)
 
-	npm run serve
+`npm run serve`
 
 Release web application:
 
-	npm run release
+`npm run release`
 	
 Folders
 --------
