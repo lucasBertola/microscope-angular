@@ -23,7 +23,9 @@ Install node.js:
 
 
 Download Projet:
+
 `git clone https://github.com/microscope-frontend/microscope-angular.git`
+
 `cd microsoft-angular`
 
 Install project dependencies:
