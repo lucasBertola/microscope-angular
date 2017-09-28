@@ -1,12 +1,9 @@
 microscope-angular
+
+[fork from https://github.com/microscope-frontend/microscope-angular](https://github.com/microscope-frontend/microscope-angular)
 ==================
 
 AngularJS (CommonJS/ Browserify) starter kit.
-
-[![Build Status](https://travis-ci.org/microscope-frontend/microscope-angular.svg?branch=master)](https://travis-ci.org/microscope-frontend/microscope-angular)
-
-![microscopejs](https://avatars0.githubusercontent.com/u/13710913?v=3&s=200)
-
 
 
 Requirements
@@ -15,8 +12,6 @@ Requirements
 * npm
 * gulp
 * nodejs
-* protractor
-* mocha
 
 Installation
 ------------
@@ -27,7 +22,7 @@ Install node.js:
 
 Install project dependencies:
 
-	npm install
+	npm installgi
 	
 Install gulp (task runner):
 
@@ -37,17 +32,9 @@ Install gulp (task runner):
 Commands
 --------
 
-Run web application:
-
-	npm start
-
 Run web application in development mode:
 
 	npm run serve
-
-Build web application:
-
-	npm run build
 
 Release web application:
 
