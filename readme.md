@@ -44,13 +44,13 @@ Release web application:
 Folders
 --------
 
-Src:
+##### Src:
 	Where you need to change the code
 
-www
+##### www
 	The place where the code is built after using the Gulp command. You must not touch these files. They are deleted at each construction.
 
-node_modules
+##### node_modules
 	The project dependencies that were recovered after using the "name install"command. You don't have to touch it.
 	
 	
