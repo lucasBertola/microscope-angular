@@ -23,7 +23,7 @@ Install node.js:
 
 Install project dependencies:
 
-	npm installgi
+	npm install
 	
 Install gulp (task runner):
 
@@ -33,7 +33,7 @@ Install gulp (task runner):
 Commands
 --------
 
-Run web application in development mode:
+Run the web application in development mode (Opens the application in your browser)
 
 	npm run serve
 
