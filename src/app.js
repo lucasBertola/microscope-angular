@@ -19,5 +19,5 @@ var app = angular.module('app', [
 	'app.home'
 ]);
 
-app.config(['$routeProvider', Router]);
+app.config(['$locationProvider','$routeProvider', Router]);
 app.run(StartUp);

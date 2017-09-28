@@ -1,7 +1,9 @@
 'use strict';
 
 // Router class
-function Router($routeProvider) {
+function Router($locationProvider,$routeProvider) {
+    $locationProvider.hashPrefix('');
+
 	$routeProvider.otherwise({ redirectTo: '/' });
 }
 
